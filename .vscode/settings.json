@@ -1,0 +1,8 @@
+{
+    "search.useIgnoreFiles": false,
+    "search.followSymlinks": false,
+    "git.decorations.enabled": false,
+    "git.enabled": false,
+    "git.suggestSmartCommit": false,
+    "git.confirmSync": false
+}
